@@ -1,0 +1,30 @@
+{
+    "name": "theme-solarized-hockor",
+    "displayName": "Solarized-light-hockor",
+    "description": "Based on Solarized light fjs and tailored for functional programming style in JavaScript",
+    "version": "1.2.0",
+    "publisher": "hockor",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized-light-hockor",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized-hockor.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hockor/theme-solarized-hockor.git"
+    },
+    "author": "hockor <hockor@163.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/hockor/theme-solarized-hockor",
+    "icon": "icon.png"
+}
